@@ -11,7 +11,7 @@ export function Footer() {
                 <span className="relative text-xl font-bold text-primary">玄</span>
               </div>
               <div className="flex flex-col">
-                <span className="text-xl font-semibold tracking-widest text-foreground">玄境阁</span>
+                <span className="text-xl font-semibold tracking-widest text-foreground">泫星阁</span>
                 <span className="text-[10px] font-light tracking-[0.3em] text-muted-foreground">MYSTIC PAVILION</span>
               </div>
             </div>
@@ -41,14 +41,14 @@ export function Footer() {
               <li>咨询热线：400-888-8888</li>
               <li>微信公众号：xuanjingge</li>
               <li>营业时间：9:00-21:00</li>
-              <li>地址：北京市朝阳区</li>
+              <li>地址：深圳市南山区</li>
             </ul>
           </div>
         </div>
 
         {/* Bottom Bar */}
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 md:flex-row">
-          <p className="text-xs text-muted-foreground">© 2026 玄境阁 Mystic Pavilion. 传承东方智慧，启迪人生之道。</p>
+          <p className="text-xs text-muted-foreground">© 2026 泫星阁 Mystic Pavilion. 传承东方智慧，启迪人生之道。</p>
           <div className="flex items-center gap-4 text-xs text-muted-foreground">
             <a href="#" className="transition-colors hover:text-foreground">
               隐私政策

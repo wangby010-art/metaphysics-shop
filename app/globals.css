@@ -43,7 +43,7 @@
 .dark {
   /* 更沉稳的深色禅意风格 */
   --background: oklch(0.12 0.025 150); /* 深墨绿夜色 */
-  --foreground: oklch(0.94 0.008 145);
+  --foreground: #e8ede8;
   --card: oklch(0.15 0.03 150);
   --card-foreground: oklch(0.94 0.008 145);
   --popover: oklch(0.15 0.03 150);

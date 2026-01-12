@@ -2,17 +2,17 @@ export function PhilosophySection() {
   const philosophyPoints = [
     {
       title: "古法传承",
-      description: "遵循千年玄学精髓，承袭大师真传",
+      description: "遵循古典美学体系，还原传统珠宝的生命力",
       symbol: "传",
     },
     {
-      title: "专业开光",
-      description: "法器均由高僧道长亲自开光加持",
+      title: "能量净化",
+      description: "坚持手工净润仪式，赋予饰品纯净的磁场",
       symbol: "光",
     },
     {
       title: "私人定制",
-      description: "根据生辰八字，量身定制开运方案",
+      description: "结合个人特质与气场需求，为您匹配专属的守护方案",
       symbol: "定",
     },
   ]
@@ -32,7 +32,7 @@ export function PhilosophySection() {
               天人合一 · 道法自然
             </h2>
             <p className="mx-auto max-w-2xl text-sm leading-loose text-primary-foreground/70 lg:text-base">
-              玄学源于《易经》，融汇阴阳五行、天干地支之理。玄境阁秉承古法，结合现代生活，
+              玄学源于《易经》，融汇阴阳五行、天干地支之理。泫星阁秉承古法，结合现代生活，
               为您提供专业的风水布局、命理分析、吉祥物选择等服务，助您顺应天时，趋吉避凶。
             </p>
           </div>

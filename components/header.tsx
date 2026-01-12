@@ -14,10 +14,10 @@ export function Header() {
         <div className="flex items-center gap-3">
           <div className="relative flex h-11 w-11 items-center justify-center">
             <div className="absolute inset-0 rounded-full border border-primary/30 bg-primary/5" />
-            <span className="relative font-sans text-xl font-bold text-primary">玄</span>
+            <span className="relative font-sans text-xl font-bold text-primary">泫</span>
           </div>
           <div className="flex flex-col">
-            <span className="text-xl font-semibold tracking-widest text-foreground">玄境阁</span>
+            <span className="text-xl font-semibold tracking-widest text-foreground">泫星阁</span>
             <span className="text-[10px] font-light tracking-[0.3em] text-muted-foreground">MYSTIC PAVILION</span>
           </div>
         </div>

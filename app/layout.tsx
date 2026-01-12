@@ -11,7 +11,7 @@ const notoSerifSC = Noto_Serif_SC({
 })
 
 export const metadata: Metadata = {
-  title: "玄境阁 - 中式玄学精品",
+  title: "泫星阁 - 中式玄学精品",
   description: "探索东方智慧，汇聚财富、健康、姻缘之道",
   generator: "v0.app",
   icons: {
